@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Newton-Raphson, Secant and Bisection methods to solve non linear equations.</Description>
+    <PackageProjectUrl>https://github.com/EduardBargues/NonLinearEquationSolver</PackageProjectUrl>
+    <PackageTags>Newton-Raphson, Bisection, Secant.</PackageTags>
+    <NeutralLanguage>English</NeutralLanguage>
+  </PropertyGroup>
+
+</Project>
